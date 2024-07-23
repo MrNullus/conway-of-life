@@ -1,8 +1,10 @@
 <center>
 
-# Conway Of Life
+<h1>
+  Conway Of Life
+</h1>
 
-![](.github/gol-logo.png)
+<img src=".github/gol-logo.png"  alt="Conway Game Life"/>
 
 This is my repo to build conway of life in any languages
 
